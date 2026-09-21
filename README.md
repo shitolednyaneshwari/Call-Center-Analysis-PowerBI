@@ -44,9 +44,9 @@ The dashboard provides insights into call volume, call duration, customer channe
 - Response time and SLA status can be used to analyze customer service performance.
 ## 🖼️ Dashboard Preview
 ### Page 1
-![Call Center Dashboard](Dashboard/Page-1.png)
+![Call Center Dashboard](page%201.png)
 ### Grid View
-![Call Center Grid](Dashboard/Grid.png)
+![Call Center Grid](Grid.png)
 ## 👩‍💻 Created By
 **Dnyaneshwari Shitole**
 Data Analytics | Power BI Project
